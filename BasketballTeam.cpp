@@ -16,7 +16,7 @@ using namespace std;
 
 BasketballTeam::BasketballTeam()
 {
-   m_school = "";
+   m_school = " ";
    m_name = "";
    m_wins = 0;
    m_losses = 0;
